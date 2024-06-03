@@ -2,4 +2,5 @@
 
 Trabalho feito por Laura Persilva e Vitória Santos sobre jogo Genius:
 
-<img scr="https://github.com/laurapersilva/Tinkercad/assets/161455932/c5742a7d-84bf-40b3-adf4-2f6a50f02753"/>
+<img src="https://github.com/laurapersilva/Tinkercad/assets/161455932/6c5f266b-988d-489c-a75b-9f3ee1504de7" alt="imagem">
+![tinkercadproject]()
